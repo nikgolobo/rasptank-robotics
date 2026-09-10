@@ -18,6 +18,8 @@
 
 **A hands-on robotics curriculum for the Raspberry Pi / Adeept RaspTank — from blinking an LED to autonomous line following.**
 
+**English · [简体中文](README.zh-CN.md)**
+
 </div>
 
 ## The Robot
@@ -95,6 +97,7 @@ The actual build — Raspberry Pi brain, ultrasonic "eyes", IR line sensors unde
 - [Achievement](#achievement)
 - [Safety](#safety)
 - [Contributing](#contributing)
+- [License](#license)
 
 ---
 
@@ -247,6 +250,10 @@ Test motor scripts with the tracks lifted off the floor first. Keep the robot in
 ## Contributing
 
 Contributions, issues and feature requests are welcome. Please read [`CONTRIBUTING.md`](CONTRIBUTING.md) and use the provided issue/PR templates in [`.github/`](.github/).
+
+## License
+
+This project is licensed under the [MIT License](LICENSE). Copyright © 2026 Nikolay Goloborodko.
 
 ## Notes
 
