@@ -190,6 +190,12 @@ sudo python3 scripts/05_line_following/line_follow.py
 
 夏令营内容包括机器人、传感器、编程与应用问题解决的动手实践。
 
+<p align="center">
+  <a href="assets/images/summer-camp-certificate.jpg"><img src="assets/images/summer-camp-certificate.jpg" width="40%" alt="2026 年 Constructor University 夏令营证书" /></a>
+</p>
+
+*点击证书可查看完整分辨率图片。*
+
 ## 安全须知
 
 首次运行电机脚本时，请先将履带架空离开地面。确保机器人周围区域空旷，并随时准备用 `Ctrl+C` 停止程序。

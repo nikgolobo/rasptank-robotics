@@ -243,6 +243,12 @@ Academic focus:
 
 The camp included hands-on work with robotics, sensors, programming, and applied problem-solving.
 
+<p align="center">
+  <a href="assets/images/summer-camp-certificate.jpg"><img src="assets/images/summer-camp-certificate.jpg" width="40%" alt="Constructor University Summer Camp 2026 certificate" /></a>
+</p>
+
+*Click the certificate to view it in full resolution.*
+
 ## Safety
 
 Test motor scripts with the tracks lifted off the floor first. Keep the robot in a clear area and be ready to stop the program with `Ctrl+C`.
