@@ -1,3 +1,5 @@
+<a name="top"></a>
+
 <div align="center">
 
 ```
@@ -21,6 +23,36 @@
 **English · [简体中文](README.zh-CN.md)**
 
 </div>
+
+---
+
+## Table of Contents
+
+- [About](#about)
+- [The Robot](#the-robot)
+- [Exercise Modules](#exercise-modules)
+- [Hardware Map](#hardware-map)
+- [Setup](#setup)
+- [Running the Exercises](#running-the-exercises)
+- [Project Demonstration](#project-demonstration)
+- [Achievement](#achievement)
+- [Safety](#safety)
+- [Contributing](#contributing)
+- [License](#license)
+
+---
+
+## About
+
+A progressive, hands-on robotics course built around an **Adeept RaspTank-style tracked robot** driven by a Raspberry Pi. Each module adds one real capability — sensing, actuation, or control logic — until the robot can drive a marked course on its own.
+
+The design goals:
+
+- **Progressive difficulty** — LEDs → distance sensing → motors → reactive behavior → closed-loop line following
+- **Real hardware, real physics** — every script runs on the actual robot; calibration constants are documented and explained
+- **Readable, hackable code** — scripts are intentionally standalone so each one can be studied, run, and modified in isolation
+
+> Built as part of practical robotics study focused on understanding how sensors, control logic, and actuators work together in a real robot.
 
 ## The Robot
 
@@ -82,36 +114,6 @@ The actual build — Raspberry Pi brain, ultrasonic "eyes", IR line sensors unde
 ```
 
 </details>
-
----
-
-## Table of Contents
-
-- [About](#about)
-- [The Robot](#the-robot)
-- [Exercise Modules](#exercise-modules)
-- [Hardware Map](#hardware-map)
-- [Setup](#setup)
-- [Running the Exercises](#running-the-exercises)
-- [Project Demonstration](#project-demonstration)
-- [Achievement](#achievement)
-- [Safety](#safety)
-- [Contributing](#contributing)
-- [License](#license)
-
----
-
-## About
-
-A progressive, hands-on robotics course built around an **Adeept RaspTank-style tracked robot** driven by a Raspberry Pi. Each module adds one real capability — sensing, actuation, or control logic — until the robot can drive a marked course on its own.
-
-The design goals:
-
-- **Progressive difficulty** — LEDs → distance sensing → motors → reactive behavior → closed-loop line following
-- **Real hardware, real physics** — every script runs on the actual robot; calibration constants are documented and explained
-- **Readable, hackable code** — scripts are intentionally standalone so each one can be studied, run, and modified in isolation
-
-> Built as part of practical robotics study focused on understanding how sensors, control logic, and actuators work together in a real robot.
 
 ## Exercise Modules
 
@@ -269,6 +271,6 @@ This repository keeps the original exercise scripts separate rather than convert
 
 <div align="center">
 
-**[⬆ back to top](#rasptank-robotics)**
+**[⬆ back to top](#top)**
 
 </div>
