@@ -30,6 +30,7 @@ Thumbs.db
 
 # But keep the demo media referenced by the README
 !assets/images/*.jpg
+!assets/images/*.png
 !assets/videos/*.mp4
 
 # Packaging
